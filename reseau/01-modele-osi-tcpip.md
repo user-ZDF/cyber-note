@@ -79,7 +79,6 @@ Some switches work with more layers but a regular switch works on Layer 2.
 
 ## 6. Example: opening a website
 
-A way to see what happens when a browser opens https://example.com:
 
 1. Application (7): the browser finds the IP address of the website using DNS. Then it gets ready to send an HTTP request.
 
